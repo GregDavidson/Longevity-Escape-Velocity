@@ -1,0 +1,20 @@
+* Longevity Escape-Velocity Tools Roadmap
+
+** Initiation Roadmap
+- OrgMode file on GitHub
+  - List the generally beneficial practices
+  - Note any conditionals
+  - Make it clear which are alternatives
+- Export to Google Doc
+- PostgreSQL schema on GitHub
+- PostgreSQL database online
+- Web interface
+
+** Elaboration Roadmap
+
+- Develop into a web hyperdoc 
+  - Get info & preferences from viewer
+  - Store into cookies
+  - Allow unfolding of details
+
+- Develop into a personalized healthspan management tool
