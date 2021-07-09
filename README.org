@@ -1,0 +1,19 @@
+#+TITLE: Longevity Escape Velocity Tools
+#+SUBTITLE: Tools to Live Long Enough to Live Forever
+* Longevity Escape Velocity Tools
+
+This project is about increasing your chances to stay healthy 
+until technological developments make it easy to rejuvenate
+your body and stay youthful as long as you like.
+
+Is this possible? Is it a good idea? Please see the Resources section below for
+books, articles and other resources addressing these questions.
+
+** Roadmap
+
+file:lev-roadmap.org
+
+** Resources
+
+- [[https://www.amazon.ca/Fantastic-Voyage-Live-Enough-Forever/dp/0452286670][Fantastic Voyage: Live Long Enough to Live Forever]]
+- [[https://www.amazon.ca/Transcend-Nine-Steps-Living-Forever/dp/1605292079][Transcend: Nine Steps to Living Well Forever]]
