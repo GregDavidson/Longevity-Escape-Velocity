@@ -2,6 +2,11 @@
 #+SUBTITLE: Tools to Live Long Enough to Live Forever
 * Longevity Escape Velocity Tools
 
+** NOTICE OF GitHub FAILURE
+  - As of 2026-10-01 GitHub is failing to correctly display this document!
+  - See the section below titled: ** Availability Of This Document
+
+
 This project is about increasing your chances to stay healthy 
 until technological developments make it easy to rejuvenate
 your body and stay youthful as long as you like.
@@ -17,3 +22,21 @@ file:lev-roadmap.org
 
 - [[https://www.amazon.ca/Fantastic-Voyage-Live-Enough-Forever/dp/0452286670][Fantastic Voyage: Live Long Enough to Live Forever]]
 - [[https://www.amazon.ca/Transcend-Nine-Steps-Living-Forever/dp/1605292079][Transcend: Nine Steps to Living Well Forever]]
+** Availability Of This Document
+
+This document is normally available at all the following urls:
+- Codeberg :: 
+- GitLab :: 
+- GitHub ::
+  - GitHub is currently failing to correctly process OrgMode documents.
+  - as of 2026-10-01
+
+Please consult the LICENCE or LICENSE.org or LICENSE.md file at the
+top of this repository for freedoms and restrictions in your use of
+the contents of this repository, including this document.
+
+Even when not required, we would appreciate
+- attribution with a reference to our respository,
+- your sending us any improvements you make to these materials,
+- information about any significant usage of these materials in your projects,
+- and thank you!
